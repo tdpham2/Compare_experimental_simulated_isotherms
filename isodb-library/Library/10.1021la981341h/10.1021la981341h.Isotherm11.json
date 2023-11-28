@@ -1,0 +1,247 @@
+{
+    "DOI": "10.1021/la981341h",
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-035dc75dddd00241bd76627f78cbef2d",
+        "name": "Zeolite 5A"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 1",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2018-05-30",
+    "digitizer": "Daniel W. Siderius",
+    "filename": "10.1021la981341h.Isotherm11",
+    "isotherm_data": [
+        {
+            "pressure": 0.1925,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.091,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.091
+        },
+        {
+            "pressure": 0.537,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.221,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.221
+        },
+        {
+            "pressure": 0.6991,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.28,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.28
+        },
+        {
+            "pressure": 0.8613,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.334,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.334
+        },
+        {
+            "pressure": 1.0335,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.391,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.391
+        },
+        {
+            "pressure": 2.0974,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.661,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.661
+        },
+        {
+            "pressure": 3.2221,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.885,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.885
+        },
+        {
+            "pressure": 4.1239,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 1.142,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.142
+        },
+        {
+            "pressure": 4.9649,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 1.272,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.272
+        },
+        {
+            "pressure": 5.8971,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 1.378,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.378
+        },
+        {
+            "pressure": 6.5659,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 1.491,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.491
+        },
+        {
+            "pressure": 7.8628,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 1.594,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.594
+        },
+        {
+            "pressure": 8.9166,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 1.692,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.692
+        },
+        {
+            "pressure": 10.0312,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 1.767,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.767
+        },
+        {
+            "pressure": 11.6726,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 1.872,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.872
+        },
+        {
+            "pressure": 15.7155,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 2.139,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.139
+        },
+        {
+            "pressure": 20.6804,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 2.301,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.301
+        },
+        {
+            "pressure": 29.6477,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 2.555,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.555
+        },
+        {
+            "pressure": 40.3679,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 2.741,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.741
+        },
+        {
+            "pressure": 50.9766,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 2.863,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.863
+        }
+    ],
+    "isotherm_type": "excess",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

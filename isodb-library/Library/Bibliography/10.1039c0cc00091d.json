@@ -1,0 +1,91 @@
+{
+    "DOI": "10.1039/C0cc00091d",
+    "adsorbateGas": [
+        "Hydrogen"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbentMaterial": [
+        "MOF-74-Ni",
+        "MOF-74-Co",
+        "Mg-MOF-74"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-775250b0154475da1a9521dd991a76d6",
+            "name": "MOF-74-Ni"
+        },
+        {
+            "hashkey": "NIST-MATDB-8b2f5bfff597fd6ac1507365a3732a97",
+            "name": "MOF-74-Co"
+        },
+        {
+            "hashkey": "NIST-MATDB-f5e80ffaaaf05f4ed655664fd22defb9",
+            "name": "Mg-MOF-74"
+        }
+    ],
+    "authors": [
+        "Pascal D. C. Dietzel",
+        "Peter A. Georgiev",
+        "Juergen Eckert",
+        "Richard Blom",
+        "Thierry Strässle",
+        "Tobias Unruh"
+    ],
+    "categories": [
+        "exp"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1039C0cc00091d.isotherm1"
+        },
+        {
+            "filename": "10.1039C0cc00091d.isotherm10"
+        },
+        {
+            "filename": "10.1039C0cc00091d.isotherm11"
+        },
+        {
+            "filename": "10.1039C0cc00091d.isotherm12"
+        },
+        {
+            "filename": "10.1039C0cc00091d.isotherm2"
+        },
+        {
+            "filename": "10.1039C0cc00091d.isotherm3"
+        },
+        {
+            "filename": "10.1039C0cc00091d.isotherm4"
+        },
+        {
+            "filename": "10.1039C0cc00091d.isotherm5"
+        },
+        {
+            "filename": "10.1039C0cc00091d.isotherm6"
+        },
+        {
+            "filename": "10.1039C0cc00091d.isotherm7"
+        },
+        {
+            "filename": "10.1039C0cc00091d.isotherm8"
+        },
+        {
+            "filename": "10.1039C0cc00091d.isotherm9"
+        }
+    ],
+    "journal": "Chemical Communications",
+    "pressures": [
+        0,
+        1
+    ],
+    "temperatures": [
+        77,
+        87
+    ],
+    "title": "Interaction of hydrogen with accessible metal sites in the metal–organic frameworks M2(dhtp) (CPO-27-M; M = Ni, Co, Mg)",
+    "year": 2010
+}

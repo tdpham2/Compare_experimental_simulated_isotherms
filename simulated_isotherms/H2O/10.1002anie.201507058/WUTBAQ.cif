@@ -1,0 +1,151 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_WUTBAQ
+_chemical_name_common            MIL-157
+_chemical_formula_moiety         '(C15 H10 O10 Zr1)n,1.5(C1 H4 O1),1.4(H2 O1)'
+_chemical_name_systematic        
+'catena-[(\m-2-hydroxy-5-(methoxycarbonyl)benzene-1,3-diolato)-(\m-5-carboxy-2-hydroxybenzene-1,3-diolato)-zirconium methanol solvate hydrate]'
+_symmetry_cell_setting           tetragonal
+_symmetry_space_group_name_H-M   'I 41/a'
+_symmetry_Int_Tables_number      88
+_space_group_name_Hall           '-I 4ad'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2-y,z
+3 1/2-x,-y,1/2+z
+4 1/4-y,3/4+x,3/4+z
+5 3/4-y,1/4+x,1/4+z
+6 1/4+y,1/4-x,1/4+z
+7 3/4+y,3/4-x,3/4+z
+8 1/2+x,1/2+y,1/2+z
+9 -x,-y,-z
+10 x,1/2+y,-z
+11 1/2+x,y,1/2-z
+12 3/4+y,1/4-x,1/4-z
+13 1/4+y,3/4-x,3/4-z
+14 3/4-y,3/4+x,3/4-z
+15 1/4-y,1/4+x,1/4-z
+16 1/2-x,1/2-y,1/2-z
+_cell_length_a                   23.32777(38)
+_cell_length_b                   23.32777(38)
+_cell_length_c                   14.98515(67)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     8154.69
+_exptl_crystal_colour            'light brown'
+_cell_formula_units_Z            16
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_thermal_displace_type
+Zr1 Zr 0.23316(14) 0.00852(14) 0.11215(18) 0.0566 Uiso
+O1 O -0.037776 -0.081129 0.387883 0.0566 Uiso
+O2 O -0.051925 -0.088769 0.239723 0.0566 Uiso
+O3 O 0.168757 -0.001437 0.409335 0.0566 Uiso
+O4 O 0.202039 0.006232 0.249789 0.0566 Uiso
+O5 O 0.141679 -0.020898 0.107544 0.0566 Uiso
+O6 O 0.543589 0.108847 0.242735 0.0566 Uiso
+O7 O 0.526318 0.111148 0.094944 0.0566 Uiso
+O8 O 0.352125 0.033444 0.372815 0.0566 Uiso
+O9 O 0.290738 0.010415 0.225068 0.0566 Uiso
+O10 O 0.322403 0.025150 0.070421 0.0566 Uiso
+C1 C 0.042421 -0.052769 0.289583 0.0566 Uiso
+C2 C 0.076353 -0.037828 0.359414 0.0566 Uiso
+C3 C 0.130207 -0.017968 0.344468 0.0566 Uiso
+C4 C 0.150128 -0.013049 0.259691 0.0566 Uiso
+C5 C 0.116196 -0.027990 0.189860 0.0566 Uiso
+C6 C 0.062343 -0.047850 0.204806 0.0566 Uiso
+C7 C -0.019065 -0.075443 0.306648 0.0566 Uiso
+H1 H 0.061972 -0.041379 0.420612 0.0507 Uiso
+H2 H 0.037848 -0.058635 0.154398 0.0507 Uiso
+C8 C 0.448726 0.074797 0.191920 0.0566 Uiso
+C9 C 0.42981 0.066091 0.276517 0.0566 Uiso
+C10 C 0.376602 0.044370 0.290777 0.0566 Uiso
+C11 C 0.342311 0.031355 0.220440 0.0566 Uiso
+C12 C 0.361227 0.040061 0.135843 0.0566 Uiso
+C13 C 0.414435 0.061782 0.121583 0.0566 Uiso
+C14 C 0.509475 0.099596 0.175639 0.0566 Uiso
+H3 H 0.454564 0.075486 0.327291 0.0507 Uiso
+H4 H 0.428090 0.068066 0.060514 0.0507 Uiso
+C15 C 0.600420 0.132048 0.227515 0.0566 Uiso
+Zr1E Zr 0.25852(14) 0.01684(14) 0.36215(18) 0.0566 Uiso
+O3C O 0.251437 -0.081243 0.159335 0.0566 Uiso
+O4C O 0.243768 -0.047961 -0.000211 0.0566 Uiso
+O8C O 0.216556 0.102125 0.122815 0.0566 Uiso
+O9C O 0.239585 0.040738 -0.024932 0.0566 Uiso
+O11 O 0.000 0.750 0.68641(92) 0.0566 Uiso
+C16 C 0.000 0.750 0.5910(15) 0.0566 Uiso
+O12 O 0.85957 0.69042 0.79927 0.0566 Uiso
+C17 C 0.91557 0.71172 0.77484 0.0566 Uiso
+O13 O 0.42881 -0.02757 0.44793 0.0566 Uiso
+O14 O 0.44591 0.21558 0.89543 0.0566 Uiso
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Zr1 O4 1_555 1_555
+O1 C7 1_555 1_555
+O2 C7 1_555 1_555
+O3 C3 1_555 1_555
+O4 C4 1_555 1_555
+O5 Zr1 1_555 1_555
+O6 C14 1_555 1_555
+O7 C14 1_555 1_555
+O8 C10 1_555 1_555
+O9 Zr1 1_555 1_555
+O10 Zr1 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4 1_555 1_555
+C4 C5 1_555 1_555
+C5 O5 1_555 1_555
+C6 C1 1_555 1_555
+C7 C1 1_555 1_555
+H1 C2 1_555 1_555
+H2 C6 1_555 1_555
+C8 C9 1_555 1_555
+C9 C10 1_555 1_555
+C10 C11 1_555 1_555
+C11 O9 1_555 1_555
+C12 O10 1_555 1_555
+C13 C8 1_555 1_555
+C14 C8 1_555 1_555
+H3 C9 1_555 1_555
+H4 C13 1_555 1_555
+C15 O6 1_555 1_555
+O11 C16 1_555 1_555
+O12 C17 1_555 1_555
+Zr1E O3 1_555 1_555
+O3C Zr1 1_555 1_555
+O4C Zr1 1_555 1_555
+O8C Zr1 1_555 1_555
+O9C Zr1 1_555 1_555
+O4 Zr1E 1_555 1_555
+O8 Zr1E 1_555 1_555
+O9 Zr1E 1_555 1_555
+C5 C6 1_555 1_555
+C11 C12 1_555 1_555
+C12 C13 1_555 1_555
+
+#END

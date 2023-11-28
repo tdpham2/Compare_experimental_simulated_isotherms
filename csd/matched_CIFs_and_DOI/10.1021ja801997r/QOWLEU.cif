@@ -1,0 +1,141 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_QOWLEU
+_chemical_formula_moiety         '(C8 H2 Co2 N2 O8)n'
+_chemical_name_systematic        
+catena-((\m~8~-2,5-Dioxybenzene-1,4-dicarboxylato)-dinitrosyl-di-cobalt)
+_symmetry_cell_setting           rhombohedral
+_symmetry_space_group_name_H-M   'R -3'
+_symmetry_Int_Tables_number      148
+_space_group_name_Hall           '-R 3'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 1/3+x,2/3+y,2/3+z
+5 1/3-y,2/3+x-y,2/3+z
+6 1/3-x+y,2/3-x,2/3+z
+7 2/3+x,1/3+y,1/3+z
+8 2/3-y,1/3+x-y,1/3+z
+9 2/3-x+y,1/3-x,1/3+z
+10 -x,-y,-z
+11 y,-x+y,-z
+12 x-y,x,-z
+13 2/3-x,1/3-y,1/3-z
+14 2/3+y,1/3-x+y,1/3-z
+15 2/3+x-y,1/3+x,1/3-z
+16 1/3-x,2/3-y,2/3-z
+17 1/3+y,2/3-x+y,2/3-z
+18 1/3+x-y,2/3+x,2/3-z
+_cell_length_a                   25.8588(8)
+_cell_length_b                   25.8588(8)
+_cell_length_c                   6.79228(21)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_volume                     3933.35
+_cell_formula_units_Z            9
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1 Co 0.3669(2) 0.0497(3) 1.0184(7)
+O1 O 0.2940(9) -0.0270(8) 1.148(2)
+O2 O 0.2283(8) -0.0651(8) 0.918(3)
+O3 O 0.2762(7) -0.0882(9) 1.502(3)
+C1 C 0.246 -0.0706 1.0767
+C2 C 0.2072 -0.1199 1.2136
+C3 C 0.2218 -0.1226 1.4156
+C4 C 0.1535 -0.1639 1.1384
+N1 N 0.4453(5) 0.1343(6) 0.930(4)
+O4 O 0.5074(7) 0.1588(9) 0.886(3)
+Co1O Co -0.0336(2) -0.3830(3) 1.6483(7)
+Co1H Co 0.3495(4) -0.0336(2) 1.3517(7)
+Co1D Co 0.2836(3) -0.0161(4) 0.6851(7)
+Co1D_2 Co 0.2836(3) -0.0161(4) 1.6851(7)
+Co1N Co -0.0161(4) -0.2998(2) 1.3149(7)
+Co1J Co 0.0497(3) -0.3172(4) 1.9816(7)
+Co1J_2 Co 0.0497(3) -0.3172(4) 0.9816(7)
+O1O O 0.0393(9) -0.3063(8) 1.519(2)
+O1D O 0.3603(8) -0.0123(12) 0.815(2)
+O1J O -0.0270(8) -0.3210(12) 1.852(2)
+O2O O 0.1050(8) -0.2682(8) 1.749(3)
+O2H O 0.3733(11) 0.1050(8) 1.251(3)
+O2N O -0.0399(11) -0.4384(8) 1.415(3)
+O3O O 0.0571(7) -0.2451(9) 1.165(3)
+O3D O 0.4215(9) 0.0311(11) 1.169(3)
+O3H O 0.3023(11) 0.0571(7) 0.835(3)
+O3J O -0.0882(9) -0.3644(11) 1.498(3)
+O3N O 0.0311(11) -0.3905(7) 1.831(3)
+C1O C 0.087333 -0.2627 1.5900
+C2O C 0.1261 -0.2134 1.4531
+C3O C 0.1115 -0.2107 1.2511
+C4O C 0.1798 -0.1694 1.5283
+N1O N -0.1120(5) -0.4676(6) 1.737(4)
+O4O O -0.1741(7) -0.4921(9) 1.781(3)
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Co1 O1 1_555 1_555
+O1 C1 1_555 1_555
+O2 C1 1_555 1_555
+O3 C3 1_555 1_555
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4O 1_555 1_555
+C4 C2 1_555 1_555
+N1 Co1 1_555 1_555
+O4 N1 1_555 1_555
+Co1O O1O 1_555 1_555
+Co1H O1 1_555 1_555
+Co1D O2 1_555 1_555
+Co1D_2 O3 1_555 1_555
+Co1N O1O 1_555 1_555
+Co1J O1J 1_555 1_555
+Co1J_2 O3O 1_555 1_555
+O1O C1O 1_555 1_555
+O1D Co1 1_555 1_555
+O1J Co1O 1_555 1_555
+O2O Co1J 1_555 1_555
+O2H Co1 1_555 1_555
+O2N Co1O 1_555 1_555
+O3O Co1N 1_555 1_555
+O3D Co1 1_555 1_555
+O3H Co1 1_555 1_555
+O3J Co1O 1_555 1_555
+O3N Co1O 1_555 1_555
+C1O O2O 1_555 1_555
+C2O C1O 1_555 1_555
+C3O C4 1_555 1_555
+C4O C2O 1_555 1_555
+N1O Co1O 1_555 1_555
+O4O N1O 1_555 1_555
+O3 Co1H 1_555 1_555
+Co1H O3D 1_555 1_555
+Co1D O1D 1_555 1_555
+Co1D O3H 1_555 1_555
+Co1N O3J 1_555 1_555
+Co1J O3N 1_555 1_555
+O3O C3O 1_555 1_555
+C2O C3O 1_555 1_555
+
+#END

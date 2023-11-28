@@ -1,0 +1,56 @@
+{
+    "DOI": "10.1039/B810574j",
+    "adsorbateGas": [
+        "Carbon Dioxide"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbentMaterial": [
+        "MOF-74-Ni"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-775250b0154475da1a9521dd991a76d6",
+            "name": "MOF-74-Ni"
+        }
+    ],
+    "authors": [
+        "Pascal D. C. Dietzel",
+        "Rune E. Johnsen",
+        "Helmer Fjellvåg",
+        "Silvia Bordiga",
+        "Elena Groppo",
+        "Sachin Chavan",
+        "Richard Blom"
+    ],
+    "categories": [
+        "exp"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1039B810574j.isotherm1"
+        },
+        {
+            "filename": "10.1039B810574j.isotherm2"
+        },
+        {
+            "filename": "10.1039B810574j.isotherm3"
+        }
+    ],
+    "journal": "Chemical Communications",
+    "pressures": [
+        0,
+        1
+    ],
+    "temperatures": [
+        303,
+        313,
+        353
+    ],
+    "title": "Adsorption properties and structure of CO2 adsorbed on open coordination sites of metal–organic framework Ni2(dhtp) from gas adsorption, IR spectroscopy and X-ray diffraction",
+    "year": 2008
+}

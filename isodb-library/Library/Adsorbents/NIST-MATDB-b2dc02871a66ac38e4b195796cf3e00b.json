@@ -1,0 +1,29 @@
+{
+    "External_Resources": [
+        {
+            "name": "CCDC",
+            "values": [
+                "602542"
+            ]
+        },
+        {
+            "name": "DOI",
+            "values": [
+                "10.1073/pnas.0602439103"
+            ]
+        },
+        {
+            "name": "CSD",
+            "values": [
+                "VELVOY"
+            ]
+        }
+    ],
+    "formula": "C96H120N48Zn12",
+    "hashkey": "NIST-MATDB-b2dc02871a66ac38e4b195796cf3e00b",
+    "name": "ZIF-8",
+    "synonyms": [
+        "Basolite Z1200",
+        "MAF-4"
+    ]
+}

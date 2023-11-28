@@ -1,0 +1,46 @@
+{
+    "DOI": "10.1021/Jz301954t",
+    "adsorbateGas": [
+        "Acetone",
+        "Acetonitrile",
+        "Water"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+            "name": "Acetone"
+        },
+        {
+            "InChIKey": "WEVYAHXRMPXWCK-UHFFFAOYSA-N",
+            "name": "Acetonitrile"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbentMaterial": [
+        "Mg-MOF-74"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-f5e80ffaaaf05f4ed655664fd22defb9",
+            "name": "Mg-MOF-74"
+        }
+    ],
+    "authors": [
+        "Jun Xu",
+        "Victor V. Terskikh",
+        "Yining Huang"
+    ],
+    "categories": [
+        "exp"
+    ],
+    "isotherms": [],
+    "journal": "The Journal of Physical Chemistry Letters",
+    "temperatures": [
+        298
+    ],
+    "title": "25Mg Solid-State NMR: A Sensitive Probe of Adsorbing Guest Molecules on a Metal Center in Metal–Organic Framework CPO-27-Mg",
+    "year": 2012
+}

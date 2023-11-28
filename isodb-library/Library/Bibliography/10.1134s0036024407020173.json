@@ -1,0 +1,64 @@
+{
+    "DOI": "10.1134/S0036024407020173",
+    "adsorbateGas": [
+        "Nitrogen",
+        "Oxygen"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+            "name": "Oxygen"
+        }
+    ],
+    "adsorbentMaterial": [
+        "Zeolite 13X"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-b76bbf3e404395a8b5d1b9ec08bf2d8f",
+            "name": "Zeolite 13X"
+        }
+    ],
+    "authors": [
+        "E. A. Ustinov"
+    ],
+    "categories": [
+        "mod"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1134S0036024407020173.Isotherm1"
+        },
+        {
+            "filename": "10.1134S0036024407020173.Isotherm2"
+        },
+        {
+            "filename": "10.1134S0036024407020173.Isotherm3"
+        },
+        {
+            "filename": "10.1134S0036024407020173.Isotherm4"
+        },
+        {
+            "filename": "10.1134S0036024407020173.Isotherm5"
+        },
+        {
+            "filename": "10.1134S0036024407020173.Isotherm6"
+        }
+    ],
+    "journal": "Russian Journal of Physical Chemistry A",
+    "pressures": [
+        0,
+        64
+    ],
+    "temperatures": [
+        253,
+        273,
+        304
+    ],
+    "title": "An analysis of the equilibrium adsorption of nitrogen, oxygen, and their mixtures on zeolite NaX at temperatures of from −20 to +30°C",
+    "year": 2007
+}

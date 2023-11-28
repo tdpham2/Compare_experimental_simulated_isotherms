@@ -1,0 +1,51 @@
+{
+    "DOI": "10.1260/026361702760254432",
+    "adsorbateGas": [
+        "Carbon Dioxide",
+        "Ethane",
+        "Methane"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+            "name": "Ethane"
+        },
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbentMaterial": [
+        "Silicate MFI",
+        "Zeolite 13X"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-53bd1395a3c079c399265b6184cf720d",
+            "name": "Silicate MFI"
+        },
+        {
+            "hashkey": "NIST-MATDB-b76bbf3e404395a8b5d1b9ec08bf2d8f",
+            "name": "Zeolite 13X"
+        }
+    ],
+    "authors": [
+        "Krzysztof Nieszporek"
+    ],
+    "categories": [
+        "mod"
+    ],
+    "isotherms": [],
+    "journal": "Adsorption Science & Technology",
+    "temperatures": [
+        296,
+        298,
+        302
+    ],
+    "title": "Application of the Integral Equation Approach to the Study of Enthalpic Effects Accompanying Mixed-gas Adsorption on Heterogeneous Solid Surfaces",
+    "year": 2002
+}

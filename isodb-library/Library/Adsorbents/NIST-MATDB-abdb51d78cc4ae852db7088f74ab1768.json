@@ -1,0 +1,20 @@
+{
+    "External_Resources": [
+        {
+            "name": "DOI",
+            "values": [
+                "10.1021/ja500330a"
+            ]
+        },
+        {
+            "name": "CSD",
+            "values": [
+                "BOHXAZ"
+            ]
+        }
+    ],
+    "formula": "",
+    "hashkey": "NIST-MATDB-abdb51d78cc4ae852db7088f74ab1768",
+    "name": "Zr-MOF-806",
+    "synonyms": []
+}

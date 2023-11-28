@@ -1,0 +1,208 @@
+{
+    "DOI": "10.1007/s10450-017-9862-9",
+    "adsorbateGas": [
+        "N-propane",
+        "Ethane",
+        "Propene",
+        "Ethene"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+            "name": "N-propane"
+        },
+        {
+            "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+            "name": "Ethane"
+        },
+        {
+            "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+            "name": "Propene"
+        },
+        {
+            "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+            "name": "Ethene"
+        }
+    ],
+    "adsorbentMaterial": [
+        "IRMOF-74-III",
+        "IRMOF-74-II",
+        "IRMOF-74-IV",
+        "Mg-MOF-74"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-563a1de6ea2c00cb7453ddbd919f1f76",
+            "name": "IRMOF-74-III"
+        },
+        {
+            "hashkey": "NIST-MATDB-813cfdb8c91f69f3d8d7bb0830372b90",
+            "name": "IRMOF-74-II"
+        },
+        {
+            "hashkey": "NIST-MATDB-bd1027e4e8445df2449da238ddcc196b",
+            "name": "IRMOF-74-IV"
+        },
+        {
+            "hashkey": "NIST-MATDB-f5e80ffaaaf05f4ed655664fd22defb9",
+            "name": "Mg-MOF-74"
+        }
+    ],
+    "authors": [
+        "Mohammad Gholami",
+        "Saeid Yeganegi"
+    ],
+    "categories": [
+        "exp"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1007s1045001798629.Isotherm1"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm10"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm11"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm12"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm13"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm14"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm15"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm16"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm17"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm18"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm19"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm2"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm20"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm21"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm22"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm23"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm24"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm25"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm26"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm27"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm28"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm29"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm3"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm30"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm31"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm32"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm33"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm34"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm35"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm36"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm37"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm38"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm39"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm4"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm40"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm41"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm42"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm43"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm44"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm45"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm46"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm5"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm6"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm7"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm8"
+        },
+        {
+            "filename": "10.1007s1045001798629.Isotherm9"
+        }
+    ],
+    "journal": "Adsorption",
+    "pressures": [
+        0,
+        1
+    ],
+    "temperatures": [
+        318
+    ],
+    "title": "Adsorption of propylene, propane, ethylene and ethane in an isoreticular series of MOF-74 structures",
+    "year": 2017
+}

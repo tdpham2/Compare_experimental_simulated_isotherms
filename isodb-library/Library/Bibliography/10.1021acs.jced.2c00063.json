@@ -1,0 +1,119 @@
+{
+    "DOI": "10.1021/acs.jced.2c00063",
+    "adsorbateGas": [
+        "Benzene"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+            "name": "Benzene"
+        }
+    ],
+    "adsorbentMaterial": [
+        "Graphitic Carbon",
+        "Amorphous Carbon"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-3a811cec9b68af683d76901602e77fcf",
+            "name": "Graphitic Carbon"
+        },
+        {
+            "hashkey": "NIST-MATDB-cc12db0164105beec9196d52287a37c7",
+            "name": "Amorphous Carbon"
+        }
+    ],
+    "authors": [
+        "Ella V. Ivanova",
+        "Alina Emelianova",
+        "Alexei F. Khalizov",
+        "Gennady Y. Gor"
+    ],
+    "categories": [
+        "sim"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm1"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm10"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm11"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm12"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm13"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm14"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm15"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm16"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm17"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm18"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm19"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm2"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm20"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm21"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm22"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm23"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm24"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm3"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm4"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm5"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm6"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm7"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm8"
+        },
+        {
+            "filename": "10.1021acs.jced.2c00063.Isotherm9"
+        }
+    ],
+    "journal": "Journal of Chemical & Engineering Data",
+    "pressures": [
+        0,
+        100
+    ],
+    "temperatures": [
+        298
+    ],
+    "title": "Molecular Simulation of Benzene Adsorption in Graphitic and Amorphous Carbon Slit Pores",
+    "year": 2022
+}

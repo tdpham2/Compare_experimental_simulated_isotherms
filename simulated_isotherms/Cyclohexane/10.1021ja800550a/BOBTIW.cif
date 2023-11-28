@@ -1,0 +1,162 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_BOBTIW
+_chemical_formula_moiety         '(C6 H10 Cu1 N3)n,n(C2 H6 O1)'
+_chemical_name_systematic        
+'catena-((\m~3~-3,5-Diethyl-1,2,4-triazole)-copper(i) ethanol clathrate)'
+_symmetry_cell_setting           rhombohedral
+_symmetry_space_group_name_H-M   'R -3'
+_symmetry_Int_Tables_number      148
+_space_group_name_Hall           '-R 3'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 2/3+x,1/3+y,1/3+z
+5 2/3-y,1/3+x-y,1/3+z
+6 2/3-x+y,1/3-x,1/3+z
+7 1/3+x,2/3+y,2/3+z
+8 1/3-y,2/3+x-y,2/3+z
+9 1/3-x+y,2/3-x,2/3+z
+10 -x,-y,-z
+11 y,-x+y,-z
+12 x-y,x,-z
+13 1/3-x,2/3-y,2/3-z
+14 1/3+y,2/3-x+y,2/3-z
+15 1/3+x-y,2/3+x,2/3-z
+16 2/3-x,1/3-y,1/3-z
+17 2/3+y,1/3-x+y,1/3-z
+18 2/3+x-y,1/3+x,1/3-z
+_cell_length_a                   19.810(3)
+_cell_length_b                   19.810(3)
+_cell_length_c                   14.180(2)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120.00
+_cell_volume                     4819.21
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       block
+_cell_formula_units_Z            18
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_thermal_displace_type
+Cu1 Cu -0.45176(2) -0.414430(19) 0.56262(2) 0.0146 Uani
+N1 N -0.45224(14) -0.49503(14) 0.38862(16) 0.0179 Uani
+N2 N -0.41446(14) -0.42642(14) 0.44013(16) 0.0165 Uani
+N3 N -0.34475(14) -0.41200(14) 0.31120(16) 0.0160 Uani
+C1 C -0.40900(18) -0.48384(18) 0.3122(2) 0.0205 Uani
+C2 C -0.4287(2) -0.5424(2) 0.2352(3) 0.0412 Uani
+H1 H -0.4812 -0.5874 0.2476 0.0500 Uiso
+H2 H -0.4314 -0.5186 0.1749 0.0500 Uiso
+C3 C -0.3745(4) -0.5712(4) 0.2239(5) 0.0898 Uani
+H3 H -0.3919 -0.6089 0.1720 0.1340 Uiso
+H4 H -0.3726 -0.5966 0.2823 0.1340 Uiso
+H5 H -0.3224 -0.5275 0.2097 0.1340 Uiso
+C4 C -0.35106(16) -0.37871(17) 0.39157(19) 0.0156 Uani
+C5 C -0.29389(19) -0.29757(18) 0.4202(2) 0.0246 Uani
+H6 H -0.2415 -0.2921 0.4245 0.0300 Uiso
+H7 H -0.3079 -0.2876 0.4836 0.0300 Uiso
+C6 C -0.2907(3) -0.2370(2) 0.3521(3) 0.0463 Uani
+H8 H -0.2522 -0.1848 0.3742 0.0690 Uiso
+H9 H -0.3421 -0.2412 0.3486 0.0690 Uiso
+H10 H -0.2757 -0.2458 0.2894 0.0690 Uiso
+Cu1I Cu -0.54824(2) -0.585570(19) 0.43738(2) 0.0146 Uani
+Cu1G Cu -0.252237(19) -0.370663(28) 0.22929(2) 0.0146 Uani
+N1I N -0.54776(14) -0.50497(14) 0.61138(16) 0.0179 Uani
+N3E N -0.40058(20) -0.32192(14) 0.64453(16) 0.0160 Uani
+O1 O -0.5517(7) -0.3614(7) 0.1883(6) 0.0950 Uiso
+H11 H -0.5975 -0.3976 0.1749 0.1140 Uiso
+C7 C -0.5293(4) -0.3867(5) 0.2673(5) 0.0610 Uiso
+H12 H -0.4784 -0.3445 0.2905 0.0740 Uiso
+H13 H -0.5231 -0.4319 0.2504 0.0740 Uiso
+C9 C -0.5889(4) -0.4096(4) 0.3427(5) 0.1010 Uiso
+H16 H -0.5728 -0.4259 0.3996 0.1520 Uiso
+H17 H -0.6360 -0.4541 0.3167 0.1520 Uiso
+H18 H -0.5998 -0.3678 0.3587 0.1520 Uiso
+O2? O -0.6516(10) -0.4219(15) 0.2850(15) 0.0910 Uiso
+C8? C -0.5161(6) -0.3480(8) 0.2973(12) 0.0680 Uiso
+H14? H -0.4779 -0.3181 0.3475 0.0820 Uiso
+H15? H -0.4937 -0.3735 0.2586 0.0820 Uiso
+O3? O -0.5255(14) -0.2961(13) 0.2407(15) 0.0900 Uiso
+O4? O -0.6375(14) -0.3779(15) 0.334(2) 0.1030 Uiso
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+Cu1 0.0163 0.0135 0.0095 -0.00364 0.00185 0.00403
+N1 0.0177 0.0164 0.0123 -0.005 0.0051 0.003
+N2 0.0156 0.0136 0.0137 -0.003 0.0035 0.0023
+N3 0.0152 0.019 0.0124 0.0014 0.0043 0.0075
+C1 0.0198 0.0215 0.0147 -0.0022 0.0059 0.0062
+C2 0.04 0.033 0.0262 -0.0143 0.0182 -0.0001
+C3 0.091 0.071 0.112 -0.042 0.012 0.044
+C4 0.0145 0.0178 0.0121 0.0011 0.0016 0.0062
+C5 0.0204 0.019 0.0223 -0.0032 0.006 0.0007
+C6 0.053 0.0191 0.053 0.0025 0.003 0.0076
+Cu1I 0.0163 0.0135 0.0095 -0.00364 0.00185 0.00403
+Cu1G 0.0135 0.02174 0.0095 0.00549 0.00364 0.00947
+N1I 0.0177 0.0164 0.0123 -0.005 0.0051 0.003
+N3E 0.0192 0.0152 0.0124 -0.0043 -0.0029 0.0077
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Cu1 N2 1_555 1_555
+N1 N2 1_555 1_555
+N2 C4 1_555 1_555
+N3 C1 1_555 1_555
+C1 N1 1_555 1_555
+C2 C1 1_555 1_555
+H1 C2 1_555 1_555
+H2 C2 1_555 1_555
+C3 C2 1_555 1_555
+H3 C3 1_555 1_555
+H4 C3 1_555 1_555
+H5 C3 1_555 1_555
+C4 N3 1_555 1_555
+C5 C4 1_555 1_555
+H6 C5 1_555 1_555
+H7 C5 1_555 1_555
+C6 C5 1_555 1_555
+H8 C6 1_555 1_555
+H9 C6 1_555 1_555
+H10 C6 1_555 1_555
+O1 H11 1_555 1_555
+C7 O1 1_555 1_555
+H12 C7 1_555 1_555
+H13 C7 1_555 1_555
+C9 C7 1_555 1_555
+H16 C9 1_555 1_555
+H17 C9 1_555 1_555
+H18 C9 1_555 1_555
+Cu1I N1 1_555 1_555
+Cu1G N3 1_555 1_555
+N1I Cu1 1_555 1_555
+N3E Cu1 1_555 1_555
+
+#END

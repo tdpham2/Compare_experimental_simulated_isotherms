@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_VOGTIV
+_chemical_name_common            CPO-27-Mg
+_chemical_formula_moiety         '(C8 H6 Mg2 O8)n,8n(H2 O1)'
+_chemical_name_systematic        
+'catena-[(\m~8~-2,5-Dicarboxylatobenzene-1,4-diolato)-diaqua-di-magnesium octahydrate]'
+_symmetry_cell_setting           rhombohedral
+_symmetry_space_group_name_H-M   'R -3'
+_symmetry_Int_Tables_number      148
+_space_group_name_Hall           '-R 3'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x-y,z
+3 -x+y,-x,z
+4 1/3+x,2/3+y,2/3+z
+5 2/3+x,1/3+y,1/3+z
+6 2/3-y,1/3+x-y,1/3+z
+7 2/3-x+y,1/3-x,1/3+z
+8 1/3-y,2/3+x-y,2/3+z
+9 1/3-x+y,2/3-x,2/3+z
+10 -x,-y,-z
+11 y,-x+y,-z
+12 x-y,x,-z
+13 2/3-x,1/3-y,1/3-z
+14 1/3-x,2/3-y,2/3-z
+15 1/3+y,2/3-x+y,2/3-z
+16 1/3+x-y,2/3+x,2/3-z
+17 2/3+y,1/3-x+y,1/3-z
+18 2/3+x-y,1/3+x,1/3-z
+_cell_length_a                   26.02607(6)
+_cell_length_b                   26.02607(6)
+_cell_length_c                   6.758722(30)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_volume                     3964.72
+_exptl_crystal_colour            yellow
+_cell_formula_units_Z            9
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_thermal_displace_type
+C1 C 0.59887(24) 0.58042(25) 0.2532(8) 0.0004 Uiso
+C2 C 0.54667(28) 0.54219(29) 0.1138(9) 0.0123 Uiso
+C3 C 0.50380(30) 0.48402(30) 0.2109(8) 0.0111 Uiso
+C4 C 0.54217(30) 0.55212(29) -0.0742(11) 0.0285 Uiso
+Mg1 Mg 0.65048(9) 0.61512(9) 0.64538(28) 0.0190 Uiso
+O1 O 0.59584(14) 0.56041(17) 0.4326(5) 0.0151 Uiso
+O2 O 0.63820(16) 0.62880(15) 0.1891(5) 0.0164 Uiso
+O3 O 0.58373(17) 0.60612(17) -0.1574(6) 0.0317 Uiso
+O4 O 0.65528(16) 0.54450(14) 0.7926(5) 0.0172 Uiso
+C1I C 0.40113(24) 0.41958(25) -0.2532(8) 0.0004 Uiso
+C2I C 0.45333(28) 0.45781(29) -0.1138(9) 0.0123 Uiso
+C3I C 0.49620(30) 0.51598(30) -0.2109(8) 0.0111 Uiso
+C4I C 0.45783(30) 0.44788(29) 0.0742(11) 0.0285 Uiso
+Mg1I Mg 0.34952(9) 0.38488(9) -0.64538(28) 0.0190 Uiso
+Mg1F Mg 0.63131(13) 0.68285(9) -0.02129(28) 0.0190 Uiso
+Mg1G Mg 0.71821(9) 0.70203(13) 0.31205(28) 0.0190 Uiso
+Mg1_2 Mg 0.65048(9) 0.61512(9) -0.35462(28) 0.0190 Uiso
+Mg1P Mg 0.28179(9) 0.29797(13) -0.31205(28) 0.0190 Uiso
+Mg1O Mg 0.36869(13) 0.31715(9) 0.02129(28) 0.0190 Uiso
+Mg1I_2 Mg 0.34952(9) 0.38488(9) 0.35462(28) 0.0190 Uiso
+O1I O 0.40416(14) 0.43959(17) -0.4326(5) 0.0151 Uiso
+O2I O 0.36180(16) 0.37120(15) -0.1891(5) 0.0164 Uiso
+O2F O 0.65727(22) 0.69513(16) 0.5224(5) 0.0164 Uiso
+O2G O 0.70453(15) 0.67607(22) 0.8558(5) 0.0164 Uiso
+O2P O 0.29547(15) 0.32393(22) -0.8558(5) 0.0164 Uiso
+O2O O 0.34273(22) 0.30487(16) -0.5224(5) 0.0164 Uiso
+O3I O 0.41627(17) 0.39388(17) 0.1574(6) 0.0317 Uiso
+O3_2 O 0.58373(17) 0.60612(17) 0.8426(6) 0.0317 Uiso
+O3G O 0.72721(17) 0.64428(24) 0.5093(6) 0.0317 Uiso
+O3P O 0.27279(17) 0.35572(24) -0.5093(6) 0.0317 Uiso
+O3I_2 O 0.41627(17) 0.39388(17) -0.8426(6) 0.0317 Uiso
+O4I O 0.34472(16) 0.45550(14) -0.7926(5) 0.0172 Uiso
+O5 O 0.69465(19) 0.54725(18) 0.1893(6) 0.1269 Uiso
+O6 O 0.7468(5) 0.50561(29) 0.6644(11) 0.4190 Uiso
+O7 O 0.7338(4) 0.3535(7) 1.0816(10) 0.7180 Uiso
+O8 O 0.5540(4) 0.15683(27) 0.5088(9) 0.2790 Uiso
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C2 1_555 1_555
+C2 C3 1_555 1_555
+C3 C4I 1_555 1_555
+C4 C2 1_555 1_555
+Mg1 O1 1_555 1_555
+O1 C1 1_555 1_555
+O2 C1 1_555 1_555
+O3 C4 1_555 1_555
+O4 Mg1 1_555 1_555
+C1I C2I 1_555 1_555
+C2I C3I 1_555 1_555
+C3I C4 1_555 1_555
+C4I C2I 1_555 1_555
+Mg1I O1I 1_555 1_555
+Mg1F O2 1_555 1_555
+Mg1G O2 1_555 1_555
+Mg1_2 O3 1_555 1_555
+Mg1P O2I 1_555 1_555
+Mg1O O2I 1_555 1_555
+Mg1I_2 O3I 1_555 1_555
+O1I C1I 1_555 1_555
+O2I C1I 1_555 1_555
+O2F Mg1 1_555 1_555
+O2G Mg1 1_555 1_555
+O2P Mg1I 1_555 1_555
+O2O Mg1I 1_555 1_555
+O3I C4I 1_555 1_555
+O3_2 Mg1 1_555 1_555
+O3G Mg1 1_555 1_555
+O3P Mg1I 1_555 1_555
+O3I_2 Mg1I 1_555 1_555
+O4I Mg1I 1_555 1_555
+O3 Mg1F 1_555 1_555
+Mg1G O2F 1_555 1_555
+Mg1G O3G 1_555 1_555
+Mg1P O2O 1_555 1_555
+Mg1P O3P 1_555 1_555
+Mg1O O3I 1_555 1_555
+
+#END

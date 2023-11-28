@@ -1,0 +1,138 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_EWIDUK
+_chemical_name_common            'ZIF8 n-butanol'
+_chemical_formula_moiety         '(C8 H10 N4 Zn1)n,n(C4 H10 O1)'
+_chemical_name_systematic        
+'catena-(bis(\m~2~-2-Methylimidazolato)-zinc n-butanol solvate)'
+_symmetry_cell_setting           cubic
+_symmetry_space_group_name_H-M   'I -4 3 m'
+_symmetry_Int_Tables_number      217
+_space_group_name_Hall           'I -4 2 3'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 y,-x,-z
+3 x,-y,-z
+4 z,x,y
+5 -x,-y,z
+6 -y,-x,z
+7 x,-z,-y
+8 -y,x,-z
+9 -x,y,-z
+10 -z,-x,y
+11 y,x,z
+12 -x,z,-y
+13 z,-x,-y
+14 x,z,y
+15 -z,x,-y
+16 -x,-z,y
+17 y,z,x
+18 z,-y,-x
+19 -z,-y,x
+20 y,-z,-x
+21 z,y,x
+22 -y,z,-x
+23 -y,-z,x
+24 -z,y,-x
+25 1/2+x,1/2+y,1/2+z
+26 1/2+y,1/2-x,1/2-z
+27 1/2+x,1/2-y,1/2-z
+28 1/2+z,1/2+x,1/2+y
+29 1/2-x,1/2-y,1/2+z
+30 1/2-y,1/2-x,1/2+z
+31 1/2+x,1/2-z,1/2-y
+32 1/2-y,1/2+x,1/2-z
+33 1/2-x,1/2+y,1/2-z
+34 1/2-z,1/2-x,1/2+y
+35 1/2+y,1/2+x,1/2+z
+36 1/2-x,1/2+z,1/2-y
+37 1/2+z,1/2-x,1/2-y
+38 1/2+x,1/2+z,1/2+y
+39 1/2-z,1/2+x,1/2-y
+40 1/2-x,1/2-z,1/2+y
+41 1/2+y,1/2+z,1/2+x
+42 1/2+z,1/2-y,1/2-x
+43 1/2-z,1/2-y,1/2+x
+44 1/2+y,1/2-z,1/2-x
+45 1/2+z,1/2+y,1/2+x
+46 1/2-y,1/2+z,1/2-x
+47 1/2-y,1/2-z,1/2+x
+48 1/2-z,1/2+y,1/2-x
+_cell_length_a                   17.03565(19)
+_cell_length_b                   17.03565(19)
+_cell_length_c                   17.03565(19)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_volume                     4943.97
+_cell_formula_units_Z            12
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_thermal_displace_type
+C1 C 0.58661(30) 0.09328(18) 0.09328(18) 0.0230 Uiso
+N1 N 0.47000(25) 0.09021(6) 0.18262(6) 0.0103 Uiso
+C2 C 0.40245(24) 0.13319(13) 0.18961(13) 0.0238 Uiso
+C3 C 0.50891(26) 0.12202(8) 0.12202(8) 0.0300 Uiso
+Zn1 Zn 0.50000 0.00000 0.25000 0.0123 Uiso
+C2M C 0.40245(24) 0.18961(13) 0.13319(13) 0.0238 Uiso
+N1M N 0.47000(25) 0.18262(6) 0.09021(6) 0.0103 Uiso
+C1D C 0.41339(30) -0.09328(18) 0.09328(18) 0.0230 Uiso
+N1D N 0.53000(25) -0.09021(6) 0.18262(6) 0.0103 Uiso
+C2D C 0.59755(24) -0.13319(13) 0.18961(13) 0.0238 Uiso
+C3D C 0.49109(26) -0.12202(8) 0.12202(8) 0.0300 Uiso
+C2O C 0.59755(24) -0.18961(13) 0.13319(13) 0.0238 Uiso
+N1O N 0.53000(25) -0.18262(6) 0.09021(6) 0.0103 Uiso
+N1EA N 0.40979(6) -0.03000(25) 0.31738(6) 0.0103 Uiso
+N1Y N 0.59021(6) 0.03000(25) 0.31738(6) 0.0103 Uiso
+Zn1M Zn 0.50000 0.25000 0.00000 0.0123 Uiso
+Zn1O Zn 0.50000 -0.25000 0.00000 0.0123 Uiso
+C4? C -0.1013(6) 0.1387(10) 0.2162(12) 0.0250 Uiso
+C5? C -0.0353(12) 0.1803(9) 0.1705(9) 0.0250 Uiso
+C6? C -0.0212(11) 0.1372(8) 0.0922(11) 0.0250 Uiso
+C7? C 0.0548(12) 0.1689(5) 0.0565(7) 0.0250 Uiso
+C8? C 0.1117(10) 0.2005(9) 0.1113(9) 0.0250 Uiso
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+C1 C3 1_555 1_555
+N1 C2 1_555 1_555
+C2 C2M 1_555 1_555
+C3 N1 1_555 1_555
+Zn1 N1 1_555 1_555
+C2M N1M 1_555 1_555
+N1M C3 1_555 1_555
+C1D C3D 1_555 1_555
+N1D Zn1 1_555 1_555
+C2D N1D 1_555 1_555
+C3D N1D 1_555 1_555
+C2O C2D 1_555 1_555
+N1O C3D 1_555 1_555
+N1EA Zn1 1_555 1_555
+N1Y Zn1 1_555 1_555
+Zn1M N1M 1_555 1_555
+Zn1O N1O 1_555 1_555
+C2O N1O 1_555 1_555
+
+#END

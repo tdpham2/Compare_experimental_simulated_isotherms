@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1021/acs.jced.6b00209",
+    "adsorbateGas": [
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Methane"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbentMaterial": [
+        "Activated Carbon"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-b2cbe7a27aa1570f2ff2c04b82289f25",
+            "name": "Activated Carbon"
+        }
+    ],
+    "authors": [
+        "Noura Dawass",
+        "Michelle L. D’Lima",
+        "Ioannis G. Economou",
+        "Marcelo Castier"
+    ],
+    "categories": [
+        "mod",
+        "exp",
+        "sim"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1021acs.jced.6b00209.Isotherm1"
+        },
+        {
+            "filename": "10.1021acs.jced.6b00209.Isotherm2"
+        },
+        {
+            "filename": "10.1021acs.jced.6b00209.Isotherm3"
+        },
+        {
+            "filename": "10.1021acs.jced.6b00209.Isotherm4"
+        },
+        {
+            "filename": "10.1021acs.jced.6b00209.Isotherm5"
+        },
+        {
+            "filename": "10.1021acs.jced.6b00209.Isotherm6"
+        },
+        {
+            "filename": "10.1021acs.jced.6b00209.Isotherm7"
+        },
+        {
+            "filename": "10.1021acs.jced.6b00209.Isotherm8"
+        },
+        {
+            "filename": "10.1021acs.jced.6b00209.Isotherm9"
+        }
+    ],
+    "journal": "Journal of Chemical & Engineering Data",
+    "pressures": [
+        0.07,
+        61.21
+    ],
+    "temperatures": [
+        298,
+        363
+    ],
+    "title": "Phase Equilibrium with External Fields: Application to Confined Fluids",
+    "year": 2016
+}
