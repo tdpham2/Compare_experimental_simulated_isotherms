@@ -147,9 +147,9 @@ def create_raspa_input(cif, output_dir, pressure, adsorbate, temperature=298, fn
     adsorbates = {"hydrogen":"H2", "carbon dioxide":"CO2", "nitrogen":"N2", "water": "H2O", "argon":"Ar", "xenon": "Xe", "krypton": "Kr", "methane":"CH4"}
 
     if '/' in cif:
-        cifname = cif.split('/')[-1].split('.')[0]
+        cifname = cif.split('/')[-1][:-4]
     else:
-        cifname = cif.split('.')[0]
+        cifname = cif[:-4]
     if len(pressure) == 1:
 
         with open(output_dir + '/' + fname, 'w') as f:
@@ -241,7 +241,6 @@ adsorbates = {"Hydrogen":"H2", "Carbon Dioxide":"CO2", "Nitrogen":"N2", "Methane
 #isotherms = ['10.1039C1cc12858b.isotherm5.json', '10.1039C1cc12858b.isotherm6.json']
 isotherms = ['10.1039C2cc34482c.Isotherm1.json']
 path_to_isotherms = '/home/tdpham/software/Compare_experimental_simulated_isotherms/csd/matched_CIFs_and_DOI'
-#path_to_simulations = '/home/tdpham/software/Compare_experimental_simulated_isotherms/simulated_isotherms/'
 path_to_simulations = '/home/tdpham/work/research/Experimental_isotherm_project/simulated_isotherm'
 raspa_input_path = 'RASPA_input'
 
@@ -263,19 +262,22 @@ for iso in iso_assignment:
         adsorbate_name, temperature, pressure_unit, pressures, uptakes, adsorption_units, adsorbent_name = get_isotherm_json(path_to_iso)
         adsorbate_label = adsorbates[adsorbate_name]
         output_dir = os.path.join(path_to_simulations, doi, iso[:-5])
-
-        cif_index = iso_assignment.index(iso)
-        cif = os.path.join('CIFs', cif_assignment[cif_index])
-        if os.path.isfile(cif):
-            converted_pressures = convert_to_Pa(pressure_unit, pressures)
-            spressures, suptake = resample(converted_pressures, uptakes)
-            if adsorbate_label == 'CH4':
-                create_raspa_input(cif, output_dir, spressures, adsorbates[adsorbate_name], temperature=temperature, fname='simulation.input', charges=False, cycles=10000, cutoff=12.8, raspa_input_path=raspa_input_path)
-
-            else:
-                create_raspa_input(cif, output_dir, spressures, adsorbates[adsorbate_name], temperature=temperature, fname='simulation.input', charges=True, cycles=10000, cutoff=12.8, raspa_input_path=raspa_input_path)
+        if os.path.isdir(output_dir):
+            continue
         else:
-            print("Error setting up {}. No CIF found!!!".format(iso))
+            print(doi)
+            cif_index = iso_assignment.index(iso)
+            cif = os.path.join('CIFs', cif_assignment[cif_index])
+            if os.path.isfile(cif):
+                converted_pressures = convert_to_Pa(pressure_unit, pressures)
+                spressures, suptake = resample(converted_pressures, uptakes)
+                if adsorbate_label == 'CH4':
+                    create_raspa_input(cif, output_dir, spressures, adsorbates[adsorbate_name], temperature=temperature, fname='simulation.input', charges=False, cycles=10000, cutoff=12.8, raspa_input_path=raspa_input_path)
+
+                else:
+                    create_raspa_input(cif, output_dir, spressures, adsorbates[adsorbate_name], temperature=temperature, fname='simulation.input', charges=True, cycles=10000, cutoff=12.8, raspa_input_path=raspa_input_path)
+            else:
+                print("Error setting up {}. No CIF found!!!".format(iso))
 """
 for d in dirs:
     print(d)
