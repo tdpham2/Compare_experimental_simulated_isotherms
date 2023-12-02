@@ -412,5 +412,3 @@
 10.1016j.micromeso.2013.03.052.Isotherm5.json,CIFMIP_clean_DDEC.cif
 10.1016j.micromeso.2013.03.052.Isotherm6.json,CIFMEL_clean_DDEC.cif
 10.1016j.micromeso.2013.03.052.Isotherm7.json,CIFMAH_clean_DDEC.cif
-10.1039C1jm12834e.Isotherm1.json,OYUJUO.Non-disordered_MOF_subset_DDEC.cif
-10.1039C1jm12834e.Isotherm4.json,OYUJUO.Non-disordered_MOF_subset_DDEC.cif
