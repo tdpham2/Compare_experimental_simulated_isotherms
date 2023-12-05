@@ -3,7 +3,7 @@
     "adsorbates": [
         {
             "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
-            "name": "Carbon Dioxide"
+            "name": "Methane"
         }
     ],
     "adsorbent": {
@@ -133,5 +133,5 @@
     "isotherm_type": "",
     "pressureUnits": "bar",
     "tabular_data": 0,
-    "temperature": 298
+    "temperature": 195
 }
